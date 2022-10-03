@@ -1,21 +1,21 @@
-<h1 align="center">Hi ??, I'm Ziyodullo Rakhmonberdiev</h1>
+<h1 align="center">Hi there, I'm Ziyodullo Rakhmonberdiev</h1>
 <h3 align="center">A passionate MERN Stack developer from Uzbekistan</h3>
 
 <img align="right" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziyodullorakhmonberdiev&label=Profile%20views&color=0e75b6&style=flat" alt="ziyodullorakhmonberdiev" /> </p>
 
-- ?? I’m currently learning **English language**
+-  I’m currently learning **Node(Express)**
 
-- ????? All of my projects are available at [https://ziyodullo.uz/portfolio](https://ziyodullo.uz/portfolio)
+-  All of my projects are available at [https://ziyodullo.uz/portfolio](https://ziyodullo.uz/portfolio)
 
-- ?? Ask me about **react, node(express)**
+-  Ask me about **react, node(express)**
 
-- ?? How to reach me **ziyodillo808@gmail.com**
+-  How to reach me **ziyodillo808@gmail.com**
 
-- ?? Know about my experiences [https://drive.google.com/file/d/1etI8gTVAITgWG2G4W6IOwyDCHGJCDa2P/view?usp=sharing](https://drive.google.com/file/d/1etI8gTVAITgWG2G4W6IOwyDCHGJCDa2P/view?usp=sharing)
+-  Know about my experiences [https://drive.google.com/file/d/1etI8gTVAITgWG2G4W6IOwyDCHGJCDa2P/view?usp=sharing](https://drive.google.com/file/d/1etI8gTVAITgWG2G4W6IOwyDCHGJCDa2P/view?usp=sharing)
 
-- ? Fun fact **I think that I am patient and strong-willed**
+-  Fun fact: I think that I am patient and strong-willed**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
