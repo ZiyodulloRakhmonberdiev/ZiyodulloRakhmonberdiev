@@ -5,18 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziyodullorakhmonberdiev&label=Profile%20views&color=0e75b6&style=flat" alt="ziyodullorakhmonberdiev" /> </p>
 
--  I’m currently learning **Node(Express)**
-
--  All of my projects are available at [https://ziyodullo.uz/portfolio](https://ziyodullo.uz/portfolio)
-
--  Ask me about **react, node(express)**
-
--  How to reach me **ziyodillo808@gmail.com**
-
--  Know about my experiences [https://drive.google.com/file/d/1etI8gTVAITgWG2G4W6IOwyDCHGJCDa2P/view?usp=sharing](https://drive.google.com/file/d/1etI8gTVAITgWG2G4W6IOwyDCHGJCDa2P/view?usp=sharing)
-
--  Fun fact: I think that I am patient and strong-willed**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ziyodullo-rakhmonberdiev-b79a41241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziyodullo-rakhmonberdiev-b79a41241/" height="30" width="40" /></a>
